@@ -1,16 +1,19 @@
-### Hi there 👋
+#  👋 Hi there
+<p>
+  I'm Shawn, a Full Stack Developer based in Dallas, TX. 
 
-<!--
-**shawng3307/shawng3307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 💡  I like to explore new trends and learn new technologies.
+  - 🌱 I’m currently learning [ReactJs](https://reactjs.org/)
+</p>
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 &nbsp;Things I code with ##
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-orange" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 &nbsp;Where to find me ##
+<p>
+  <a href="https://www.linkedin.com/in/shawn-george12/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
